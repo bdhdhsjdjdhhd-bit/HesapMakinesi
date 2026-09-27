@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Hesap Makinesi</string>
+    <string name="calc_history_title">İşlem Geçmişi</string>
+    <string name="calc_clear_history">Geçmişi Temizle</string>
+    <string name="calc_no_history">Henüz hesaplama yapılmadı</string>
+    <string name="secret_folder_default_title">Poki Gizli Klasör</string>
+    <string name="secret_code_hint">67- tuşlayarak gizli klasörü açabilirsiniz</string>
+    <string name="panic_lock_button">Hesap Makinesine Dön</string>
+    <string name="search_games_placeholder">Poki oyunlarında ara…</string>
+    <string name="add_custom_game">Yeni Oyun / Site Ekle</string>
+    <string name="vault_settings">Gizli Klasör Ayarları</string>
+    <string name="play_now">Hemen Oyna</string>
+    <string name="open_poki_web">Poki Web Modu</string>
+</resources>

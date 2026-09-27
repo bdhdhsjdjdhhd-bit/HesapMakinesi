@@ -1,0 +1,6 @@
+{
+  "name": "Hesap Makinesi",
+  "description": "iOS tasarımlı hesap makinesi görünümünde, 67- şifresiyle açılan gizli Poki oyun klasörü ve oyun merkezi uygulaması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
